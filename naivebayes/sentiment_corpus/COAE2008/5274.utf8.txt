@@ -1,0 +1,1 @@
+不过，该方法只适用于Firefox, Thunderbird以及Mozilla Suite。今次诡计与之前不同的是，它利用了一个嵌套链接标记（典型的链接标记如：<a href='someurl.htm'>some text to click on</a>），使到状态栏只显示第一个标记的内容，但用户实际被重定向到内部标记的目标地址。

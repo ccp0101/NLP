@@ -1,0 +1,3 @@
+2559计算机病毒预警:3种病毒下周发作计算机病毒预警:3种病毒下周发作
+　　危害程度：在该日，运行或退出Word的时候会会显示包含以下内容的对话框：“-ParasiteVirus1.0XYourcomputerisin鄄fectedwiththeParasiteVirus,version1.0!”。同时在用户打开的文档中，用“，”替换“。”，用字母“e”替换字母“a”，用“not”替换“and”。
+　　病毒名称：WM_Etkill发作日期：2月17日危害程度：感染Word的通用模板文件normal.dot，在17日修改Win.ini，造成系统启动不稳定，并使得快捷键Alt+F8和Alt+F11失效。

@@ -1,0 +1,2 @@
+标题是：“Symantec Anti-Virus Warning”（赛门铁克抗毒警讯），并附上“www.symantec.com.vbs”的附件；让人误以为是赛门铁克所发出的电邮。
+　　这病毒非常狡猾，它好心告诉你警惕，而事实上本身就是病毒。赛门铁克说这是一个中级病毒。www.symantec.com上有解毒软件。

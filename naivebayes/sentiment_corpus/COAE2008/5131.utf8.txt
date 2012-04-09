@@ -1,0 +1,3 @@
+1335AJ木马攻击英国银行 诱窃取用户金钱AJ木马攻击英国银行 诱窃取用户金钱
+　　计世网消息 安全专家警告称他们已经发现一种名为Banker-AJ特洛伊木马程序，这个恶意程序能够记录用户的电子银行详细资料以及互联网用户浏览网页的情况。
+　　反病毒厂商Sophos公司警告说，Banker-AJ特洛伊木马程序的攻击目标是Abbey、Barclays、Egg、HSBC、Lloyds TSB、Nationwide和NatWest等英国银行的网络客户。它能够攻击运行微软公司Windows操作系统的计算机。

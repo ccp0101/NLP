@@ -1,0 +1,10 @@
+旁门左道 不用软件截屏的小技巧--IT-- 旁门左道 不用软件截屏的小技巧
+　　按下Print Screen键，将会截取全屏幕画面。用鼠标点击“开始→程序→附件→画图”，将会打开“画图”程序，点击该窗口中的“编辑→粘贴” 菜单，这时会弹出一个 “剪贴板中的图像比位图大，是否扩大位图?”对话框，点击“是”，就会将该截取的图片粘贴到其中。再按下Ctrl+S键将图片保存即可。
+　　二、抓取当前活动窗口
+　　在使用Print Screen进行屏幕抓图时，同时按下Alt键，就会只抓取当前活动窗口，然后按上述方法保存即可。
+　　三、截取游戏画面
+　　我们都知道用键盘上的Print Screen键可以抓取系统中的桌面图案，然后在“画图”程序或是Photoshop之类的图像处理软件中可以“粘贴”出来。但是如果我们要抓的是游戏画面的话，上面这个方法可能就不灵光了。
+　　没关系，启动Windows Media Player(6.0以上版本)，打开一个视频文件，选择“文件→属性→高级”，双击 Video Renderer，在Direct Draw中，把YUV Flipping、RGB Flipping、YUV Overlaya 和 RGB Overlays四个选项取消，确定后退出。再试试看，用Print Screen键也可以抓游戏画面了。
+　　不过，现在网游都有截屏的键，只要按一下就截屏
+　　四、截取DirectX图
+　　Print Screen 键无法截取DirectX图，没关系，只要我们略施小计，就可以让它大展拳脚。在“开始”菜单的“运行”中输入 regedit，打开注册表编辑器，然后展开注册表到HKEY_Local_Machine/Software/Microsoft /DirectDraw分支，新建一个“DWORD”值，并将其重命名为“EnablePrintScreen”，填入键值“1”，即可使 Print Screen键具有截取DirectX图的功能。

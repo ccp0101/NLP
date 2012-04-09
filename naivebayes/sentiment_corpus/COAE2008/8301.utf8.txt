@@ -1,0 +1,2 @@
+
+　　另外，升阳也表示，未来所有产品线将会与Linux在某种程度上有所整合，包括会把更多在Solaris平台执行的转体移植到Linux平台，Solaris也将会支援Linux的系统指令和软体函式库，甚至未来连操作介面也会改成Linux目前最流行的介面之一GNOME，同时还会与其他Linux厂商合作，确定Linux能在UltraSPARC架构伺服器上执行。

@@ -1,0 +1,4 @@
+
+　　升级方案将在下一个Windows版本Longhorn于2006年发布之前推出，它在InternetExplorer中建有弹出式窗口阻拦器，还带有强化的防火墙；另外，它还具有一个微软称为“视窗安全中心”(Windows Security Center)的新安全特性。
+　　稍早，微软和电脑安全提供商RSA Security在西雅图宣布，它们将联合推出一种新型认证技术，利用RSA的Secur ID标记为Windows作业系统提供更好的密码保护。
+　　RSA Security的Secur ID产品可以对登录到网络中的用户进行认证，该公司表示，这种新技术将可以在用户在电脑上登录时就提供更严格的安全措施，使得各企业能够更便捷地保护它们的网络。

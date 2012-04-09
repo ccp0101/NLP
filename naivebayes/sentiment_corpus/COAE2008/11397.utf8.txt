@@ -1,0 +1,3 @@
+其余依次为新进榜的W32/Braid-A（Braid蠕虫）、第10个月占据10大排行榜的W32/Klez-H（Klez变种）、W32/Opaserv-A（Opaserv蠕虫）以及W32/Opaserv-C（Opaserv变种）。
+　　第6到第10名是再度进榜的W32/Flcss（FunLove蠕虫）、再度进榜的W95/Spaces（Spaces病毒）、新进榜的W32/Opaserv-F（Opaserv变种）、W32/Opaserv-B（Opaserv变种）及W32/Opaserv-D（Opaserv变种）。
+　　“捣蛋虫”能同时采用两种模式欺骗使用者，通过电邮及网络共享资源四处散布，所有电脑用户都应确保自己能防止“捣蛋虫”的入侵。

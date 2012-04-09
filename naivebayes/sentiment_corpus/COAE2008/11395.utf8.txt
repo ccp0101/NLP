@@ -1,0 +1,3 @@
+
+　　这是用户端的重要保安工作。他表示，企业无线局域网还需要有更多的保安功能，例如控制用户能在什么时间使用、在什么地方使用、使用些什么等。
+　　他指出，SMC网络公司针对无线局域网以往的保安弱点，推出了具有安全通道功能（secured tunnel或VPN tunnel）和其他保安功能的不同无线局域网产品，包括无线宽带路由器Wireless Barricade Plus和无线局域网保安伺服器EliteConnect WLAN Secure Server，能够达到加强保护的作用。

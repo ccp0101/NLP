@@ -1,0 +1,1 @@
+Z99采用目前最为主流的Intel Core Duo T2250处理器(最高主频可以达到1.73GHz)，并提供128M nVIDIA GeForce Go 7300、256M ATI Mobility Radeon X1600等多种独显组合，带来卓越的3D处理效能。齐备接口、Express card 插槽、蓝牙v2.0 +EDR模块、无线网络模块等，让数字精彩随身而行。

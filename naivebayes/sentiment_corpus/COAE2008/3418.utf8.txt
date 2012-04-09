@@ -1,0 +1,5 @@
+
+　　Broadband Networking产品初始设置为128bit的Wired Equivalent Privacy(WEP)加密功能有效。
+　　该产品配备防火墙功能并且支持网络地址转换(NAT)和即插即用(UPnP)，可以很容易地利用安装向导来安装和设置。
+　　通过组合运用MSN Broadband和Broadband Networking产品，消费者可以通过Wi-Fi(802.11b)，在整个家庭中简易地引入高速接入服务。除了支持无线功能以外它还支持有线网络。
+　　“MSN Dial-Up”拨号服务的用户也可以利用MSN 8。

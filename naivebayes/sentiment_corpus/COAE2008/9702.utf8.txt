@@ -1,0 +1,4 @@
+
+　　RSA Security副总裁施耐尔(Scott Schnell)表示，企业的信息技术部门不再需要在它们的网络中使用昂贵的多层认证，只需要依靠经过Windows程式认证的单一用户名就可以了。
+　　全球有90%以上的个人电脑(PC)使用Windows作业系统，这种系统可以使用密码保护，但迄今为止还没有与Secur ID这样的严格认证系统加以整合。
+　　微软安全部门企业开发经理阿塔拉(MichaelAtalla)表示，微软和RSA Security之间的新协议是微软“可信赖运算”(Trustworthy Computing)行动的重要一步，该行动已开展了两年。

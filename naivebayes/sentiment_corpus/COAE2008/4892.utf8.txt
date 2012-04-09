@@ -1,0 +1,3 @@
+（“viewtopic.php secured by Anti-Santy-Worm V4. Your site is a bit safer, but upgrade to >= 2.0.11）
+　　Hypp称，他已经看到了二种版本的被篡改了的网页，网页上指的是两个不同的IP地址，并且两个IP地址都来自阿根廷，这说明这种anti-Santy蠕虫病毒也出自阿根廷。
+　　目前这种anti-Santy蠕虫病毒已经感染了40000多个网站。Google公司已经开始封杀由Santy蠕虫病毒发出的查询搜索请求，虽然这样将能够阻止Santy蠕虫病毒的复制。但数天后就发现了能够利用AOL公司和雅虎公司的搜索功能的Santy蠕虫病毒变种。

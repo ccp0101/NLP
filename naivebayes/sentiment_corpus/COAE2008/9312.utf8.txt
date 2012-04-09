@@ -1,0 +1,3 @@
+
+　　本周一，Sharky Extreme等硬件测评网站公布了Pentium 4微处理器的基准测试结果。测试结果显示，在运行“Quake III”电脑游戏和一些视频和媒体编辑应用程序，以及对内存带宽或科学计算进行相对理论化的测试时，1.5 GHz Pentium 4微处理器的表现要优于1.2 GHz的Athlon微处理器。
+　　但是，在运行许多应用程序和“Quake III”之外的电脑游戏时，1.5 GHz Pentium 4微处理器和1.2 GHz Athlon微处理器之间的差别很小。在进行一些基准测试的时，英特尔首批推出的Pentium 4微处理器，所得的分数不仅低于Athlon微处理器，甚至还要低于Pentium III微处理器。

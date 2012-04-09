@@ -1,0 +1,3 @@
+1825微软前任经理：Linux就是未来微软前任经理：Linux就是未来
+　　当微软不停地向Linux泼脏水的时候，一些著名的微软前任经理们现在正在大力支持Linux。
+　　Eric Engstrom曾担任微软反托拉斯案的核心管理人之一，启动并领导了DirectX项目，微软MSN的总经理。现在，他同以前的一些微软同事们对微软的反垄断案等审讯中作证，并站在了Linux阵营一方，大力支持Linux事业，他们建立了Chromium通讯公司，并开发了第一个项目Chromium，这是一个Linux Web服务器软件Apache的加速器，其运行速度相当不错，并采用了Linux内核Fabio Riccardi来完善这个"拳头"产品，这个Linux网络服务器的售价为295美元。

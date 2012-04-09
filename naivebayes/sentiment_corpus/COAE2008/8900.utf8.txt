@@ -1,0 +1,4 @@
+2309美国爆发新病毒W97M_Resume.A美国爆发新病毒W97M_Resume.A
+　　一个类似“梅丽莎”的新病毒在欧美爆发，它的名字是： W97M_Resume.A。它通过微软电邮软件Outlook传播，能导致电脑瘫痪。
+　　病毒昨天下午开始在美国一些公司传播，导致许多公司电邮伺服 机爆满而无法运作。目前，亚太地区还没有接到这种病毒的报告。
+　　如果你收到一封电邮，标题为“Resume-Janet Simons”（珍妮 特·西蒙丝履历），附件为：Attached is my resume with a list of references contained within（内含我的履历及系列参考资料） ，千万不要打开，应立即清除。

@@ -1,0 +1,3 @@
+
+　　尽管Firefox已经在蚕食IE的市场份额，但IE仍然是占有主导地位的浏览器软件。在目前二种最为普及的Linux版本中━━Red Hat Enterprise Linux、Suse Linux Enterprise Server，Firefox都是缺省浏览器软件。
+　　据招聘广告称，应聘者将成为Mozilla社区的“捐赠者”，还需要有使用Gecko显示引擎、XPCOM技术开发在不同计算机系统上运行的软件的经验。自Firefox 1.0去年发布后，参与Firefox开发的编程人员的就业前景一片大好。（小芹编译）

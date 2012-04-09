@@ -1,0 +1,4 @@
+2891港文化传信与IBM成功研发　全球首颗中文Linux单晶片面市最新科技
+　　（香港讯）香港文化传信集团昨天公布，该公司与IBM合作成功研发“文传CSCS IA-3210 CPU”，这是全球第一颗专为Linux而开发的中文Linux单晶片中央处理器（CPU），也是针对中文Linux IA（Intelligent Appliance）业的技术解决方案。
+　　文传声称，该CPU的出现，标志着未来IT的发展，正式完全脱离微软下的PC架构环境，而进入由Linux领导的IA新纪元。
+　　据介绍，“文传CSCS IA-3210 CPU”首次采用中文单晶片系统技术（Chinese Single Chip System, CSCS），是目前全球独一无二采用32位元（bit）结构的中文单晶片。

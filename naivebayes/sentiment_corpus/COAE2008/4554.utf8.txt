@@ -1,0 +1,4 @@
+1168微软反垃圾邮件新举措电子商务
+　　（北京讯）微软公司（Microsoft）计划在近期将其反垃圾邮件技术提交给互联网标准化组织IETF（Internet Engineering Task Force），以使该技术成为国际通用的标准。在微软之前，雅虎和美国在线都已经将自己的反垃圾邮件技术提交给了IETF。
+　　微软的这项技术名为“Caller ID for E-mail”，该技术基于IP（Internet Protocol）协议，旨在确保邮件发送者返回的电子邮件地址是真实的。
+　　它不久将把“Caller ID for E-mail”技术提交给IETF。

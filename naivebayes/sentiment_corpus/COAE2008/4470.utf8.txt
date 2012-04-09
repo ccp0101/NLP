@@ -1,0 +1,2 @@
+其他的合作伙伴包括专业开发群集电脑的VerariSystems公司和为超级电脑开发Windows系统多年的机构CornellTheoryCenter。
+　　电脑群集正在成为超级电脑的主流。在本周发布的最新500强超级电脑中，有291台是电脑群集。Linux系统在群集电脑里很流行，排名第二位超级电脑Thunder运行的就是这种系统，而IBM公司新的BlueGene/L超级电脑也位列前10名。

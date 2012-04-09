@@ -1,0 +1,7 @@
+
+　　另外，接上键盘后，还可以和普通个人电脑一样使用。
+　　微软今年6月底在纽约举行的 TECHXNY／PC EXPO 展览会上，宣布将推出一系列的Tablet PC，所使用的操作系统（OS）为微软开发的“Windows XP Tablet PC Edition”。
+　　该系统是在“Windows XP Professional”上追加了笔输入、文字识别和语音识别等功能后形成的Tablet PC专用Windows。
+　　现有的Windows软件基本上都可以在Tablet PC上运行。
+强化笔输入功能
+　　微软的设想是：使笔输入设备的易用性接近真正的“纸和笔”。

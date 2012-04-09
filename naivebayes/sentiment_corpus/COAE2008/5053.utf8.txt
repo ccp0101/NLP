@@ -1,0 +1,2 @@
+也颇为烦人；第二种是"EPOC＿BANDINFO．A"，它发作时会将用户信息变更为"Somefoolownthis"；第三种是"EPOC＿FAKE．A"，它会在手机的屏幕上显示格式化内置硬盘时画面，无需惊慌，因为实际上手机并不会执行格式化操作的；第四种是"EPOC＿GHOST．A"，它会在画面上显示"Everyonehatesyou"的话；第五种是"EPOC＿LIGHTS．A"，它会使背景灯BackLight持续闪烁；第六种是"EPOC＿ALONE．A"，它可以使键盘操作失效；等等。
+　　这六种病毒中前五种的危害并不很大，并且还有种恶作剧的味道，但第六种"EPOC＿ALONE．A"却是一种恶性病毒。

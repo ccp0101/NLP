@@ -1,0 +1,21 @@
+戴尔NV缺陷本延长保修 Intel推USB3.0--IT-- 戴尔NV缺陷本延长保修 Intel推USB3.0
+　　全世界所有购买戴尔笔记本并受到Nvidia GPU显卡缺陷问题影响的客户，无论是否出现过问题，都将能获得十二个月的延长保修承诺。根据用户之前购买的服务期限，最高质保期可达到购买之日起五年。在这个延长的保修计划里，涉及的笔记本一共有十五款，其中包括相当热门的M1330。从 Dell 官方博客的反馈来看，这么做让大部份的人都还算满意。
+　　涉及的产品包括：
+　　Dell Precision M2300
+　　Dell Precision M4300
+　　Dell Precision M65
+　　Latitude D620
+　　Latitude D630
+　　Latitude D630c
+　　Latitude D820
+　　Latitude D830
+　　Inspiron 1420
+　　Vostro Notebook 1310
+　　Vostro Notebook 1400
+　　Vostro Notebook 1510
+　　Vostro Notebook 1710
+　　XPS M1330
+　　XPS M1530
+　　延长至宝服务的具体细节问题，将在未来几周之内公布。虽然前面已经为这些搭载有问题显卡的笔记本用户已经提供了BIOS更新，但是指标不治本，有些根本于事无补。如果你发现你的笔记本问题没能得到解决，国内用户可以和戴尔的技术支持联系。
+　　联系方式：家庭用户 Inspiron 笔记本 8008582969；XPS 笔记本 8008580540；商业用户 Latitude 系列 8008580950； Vostro，Inspiron 笔记本 4008811852； XPS 笔记本 4008845115 / 8008582659; Precision 图形工作站 8008580960。
+　　今日观点：虽然问题可以解决，还能尽量做到让用户满意，但是问题还是有问题。比如新出厂的机器的GPU有没有问题？具体哪个时间以后出厂的才完全没有问题？现在已经上市的笔记本里 GPU 有没有问题？等等之类。

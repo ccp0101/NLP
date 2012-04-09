@@ -1,0 +1,4 @@
+2039PCMCIA与USB功能大斗法PCMCIA与USB功能大斗法
+　　Notebook有PCMCIA及USB两种介面。PCMCIA几乎是Notebook专用的介面；至于USB则是现时最流行及方便的外接介面，Notebook及Desktop两者都会具备USB介面，取代以前较慢的平行埠(parallel，即打印机埠）介面，两种介面各有优劣之处。
+PCMCIA传输速度快
+　　PCMCIA是Personal Computer Memory Card International Association（个人电脑记忆体卡国际协会）的简写，又称为PC Card。PCMCIA主要分Type II及Type III，前者厚5.0mm，后者厚10.5mm。

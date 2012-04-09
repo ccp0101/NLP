@@ -1,0 +1,2 @@
+Media Center或Tablet PC功能的增加将依赖于系统是否有合适的硬件。另外，泄露的Longhorn版本还包含有2991版本的Windows Media Player 9 Series Player、IE 6.05，Windows Messenger和Windows Movie Maker的版本则比XP中的还要老。
+　　泄露的Longhorn版本在安全方面还有所增强。被称作“Logon Hours”的服务能够限制用户登陆计算机的时间。从理论上计，这一功能有助于阻止非授权的使用计算机以及在非工作时间对计算机的攻击。此外，微软公司还在Longhorn上增加了许多安全功能，但由于它们都与WinFS文件系统密切相关，在Longhorn使用WinFS之前，这些功能体现不出来。

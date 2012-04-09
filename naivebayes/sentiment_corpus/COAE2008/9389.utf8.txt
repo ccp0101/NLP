@@ -1,0 +1,2 @@
+
+　　受此漏洞影响的系统包括Internet Explorer 5.01 SP2, SP3与SP4, Internet Explorer 5.5 SP2, Internet Explorer 6, Internet Explorer 6 SP1, 和Windows Server 2003的Internet Explorer 6，甚至包括最新的64位元版本。（路透社）

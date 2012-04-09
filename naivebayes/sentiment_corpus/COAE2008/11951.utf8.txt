@@ -1,0 +1,5 @@
+我们对这个6.01版进行了试用，下面请看我们为大家推出的简报。
+　　增加安装组件
+　　Netscape 6.01完全版的安装文件大约有31MB(点这里立即下载)，程序组件也较以前有了大量增加，增加的可选组件包括：Realplayer 8.0、Flash Player、HP打印机标识、德、法、日语语言包、Stamps.com Internet Postage等。安装完毕打开程序时，我们还注意到Netscape 6.01的启动速度也有较大提高。
+　　What's New
+　　由于Netscape 6.01使用了Gecko Build ID 20010131，因此在Mozilla 0.7中出现的新变化也可以在它这里找到，当然我们也就没有必要再对它们进行重复，有兴趣的朋友可以查看Mozilla 0.7试用简报。

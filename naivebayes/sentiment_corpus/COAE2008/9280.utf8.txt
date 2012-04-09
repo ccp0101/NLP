@@ -1,0 +1,14 @@
+发作后它将删除系统中的所有文件。
+　　其特征是邮件正文是如下的一段英文或西班牙文，中间内容有可能出入，但首尾两句不变。
+　　英文：Hi! How are you?
+　　I send you this file just to have your advice(中间一句有可能不是这样的)
+　　See you later. Thanks
+　　西班牙文：
+　　Hola como estas ?
+　　(中间内容有可能是多种情况，首尾不变)
+　　Last line: Nos vemos pronto, gracias.
+　　病毒危害分析：
+　　“CAM先生”的主要危害有：
+　　1. 每一次系统启动时，会在你的硬盘上写数据，直到填满硬盘；
+　　2. 通过你的通讯地址薄进行发送，干扰电子邮件服务器；
+　　3. 删除硬盘文件。

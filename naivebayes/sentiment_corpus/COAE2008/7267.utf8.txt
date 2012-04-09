@@ -1,0 +1,3 @@
+目前，只在少数邮件中发现这种蠕虫，如果该蠕虫得到广泛传播，那么后果将十分惨重。”Gullotto表示，很明显，目前只有一少部分人受到了这种蠕虫的欺骗。
+　　Network Associates公司表示，这种蠕虫是使用JavaScript语言编写的，可以进行自我传播。据悉，该蠕虫主要是通过Microsoft Outlook、Outlook Express和mIRC（一种使用IRC服务的程序）传播。
+　　据Gullotto透露：这种病毒主要以电子邮件附件的形式传播，该电子邮件的主题是“Outlook Express更新” 。另外，该蠕虫还可以删除硬盘上所有的文件。

@@ -1,0 +1,5 @@
+
+　　Unix操作系统是由AT系统实验室，于30年前开发成功的，Linux操作系统的工作方式与Unix非常相似，因此将Unix技术用于Linux之中相对容易一些。
+　　AT恫舾吮钡缤纾钡缤缬肿鄹薙CO(Santa Cruz Operation)。
+　　SCO后来又将专利卖给了Linux经销商Caldera International公司，不过去年后者并入SCO公司，以示自己的销售收入来自SOC的技术，而非Linux产品。
+　　最近，SCO宣称自己拥有的部分Unix源代码已经被复制到了Linux操作系统中，要向Linux的使用者收取费用，并于三月份将IBM告上了法庭，指责对方在Linux中使用了Unix代码，要求IBM支付10亿美元的赔偿金。

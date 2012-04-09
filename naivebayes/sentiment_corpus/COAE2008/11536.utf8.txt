@@ -1,0 +1,3 @@
+缒陨纤阉鱓32.Yaha系列病毒，如果发现这类病毒，就会显示下面的信息：
+　　“Title: Exchange viruses?”(标题：交换病毒？)
+　　“Message: Hi there.. it seems you were infected with Yaha.k. That worm however, written by an idiot who sPeLlS lIkE tHiS,abused my website and got me toreceive the complaints. Therefore, I have just disinfected you.Don’t worry tho.... as I didn’t wanna steal from you, I gave you this virus (Win32.HLLP.YahaSux) in return :)”(内容：嗨，你好象已经感染了Yaha.k病毒。

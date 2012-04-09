@@ -1,0 +1,3 @@
+而一般所指PCMCIA是Type II，是配合16-bit的周边设备，在1995年PCMCIA推出新32-bit Card Bus的标准，结构上与PCI Bus相同，透过33MHz及32-bit的资料途径，可以达到132MB/sec的资料传送速度。
+USB接设备无需重新开机
+　　USB即Universal Serial Bus，译成中文就是“万用串行总线”。用户不用关掉电脑的电源便能把USB设备接上去，甚至不需要重新开机，电脑就会侦察到其USB设备。现在愈来愈多电脑周边配件都改用USB介面，成为现代电脑新规格。

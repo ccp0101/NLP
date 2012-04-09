@@ -1,0 +1,2 @@
+《居始拱桓鑫募癶appy new year.txt.vbs”的附件。一旦打开该附件，病毒就会在受到攻击的系统中安装一个后门特洛伊（检测到的名称为Backdoor/Psychware.G.Server），然后将自身发送给受到攻击的MicrosoftOutlook地址簿中的所有人。该特洛伊执行文件“3K．exe”会试图从几个Internet网站下载“Teen.exe”文件。
+　　CA通过http://ca.com/proactivesecurity网站为家庭用户提供全方位的免费解决方案，借助该方案可防止包括Tqll－A在内的与Internet相伴而来的危险。

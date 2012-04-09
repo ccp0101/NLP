@@ -1,0 +1,4 @@
+
+　　音乐格式推陈出新，除WAV、 MP3、WMA、MIDI，以下是音讯界后起之秀。
+　　TwinVQ是Yamaha与NTT Cyber Space Laboratories共同开发的格式，副档名为VQF，压缩比高， 约为1:20，96kbs的TwinVQ档音质已可媲美128kbps的MP3，可惜是占用电脑资源较多，转换速度亦较慢，详情可参考http://www.yamaha-xg.com/soundvq。
+　　mp3PRO是汤笙多媒体的新格式，以64kbps的数据流量提供到128kbps的MP3的质量，使用了汤笙多媒体及Fraunhofer旧有的MP3标准改良。

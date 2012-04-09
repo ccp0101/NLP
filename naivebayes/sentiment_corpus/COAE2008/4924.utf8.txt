@@ -1,0 +1,4 @@
+1289Sharpei成为第二种攻击.Net framework的病毒Sharpei成为第二种攻击.Net的病毒
+　　上周五，反病毒公司收到了一种被称为Sharpei病毒的拷贝，这种病毒是用C#语言开发的，能够攻击安装有.Net framework的计算机。
+　　Network Associates将该病毒的危险等级定为“低”，但强调指出，这已经是病毒作者第二次向.Net framework下手。1月份发现的Donut就能够攻击.Net framework的部分组件，后来微软认为它并不是病毒。
+　　上周五，微软没有就Sharpei蠕虫病毒发表评论。

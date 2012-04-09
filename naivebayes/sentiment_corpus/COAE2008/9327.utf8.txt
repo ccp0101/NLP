@@ -1,0 +1,3 @@
+2425SONY透露正在研发性能凶悍的图形引擎SONY透露正在研发性能凶悍的图形引擎
+　　索尼电脑娱乐（Sony Computer Entertainment）昨向外界透露，该公司正在研发的最新的图形渲染引擎，这枚462平方毫米的芯片将会让目前Playstation2所使用的Graphics Synthesizer犹如婴孩般低能。
+　　该芯片包含了256Mbit（32MB）的片载嵌入式内存（256-Mbit of on-chip embedded DRAM)，这个容量是Graphics Synthesizer的8倍！内存总线的宽度为2560位，可以提供48GB/s的带宽，虽然这个数字与Graphics Synthesizer一样，但是考虑到32MB的嵌入式内存，其实力已经远远凌驾于目前所有的渲染引擎了。

@@ -1,0 +1,4 @@
+967升阳发布OpenOffice苹果电脑测试版电子商务
+　　（纽约讯）升阳微系统（Sun）周一发布了其开放源代码的办公软件OpenOffice，第一个用于苹果电脑的Mac OS X操作系统的测试版。
+　　OpenOffice是升阳的办公套件StarOffice的姊妹产品，用于Linnux、Windows和升阳自己的Solaris操作系统的OpenOffice 1.0早已面世。
+　　而且，用于任何系统的OpenOffice的源代码都是完全开放的，人人都可以对软件的内部构造进行研究、修改并公布自己的成果。

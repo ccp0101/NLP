@@ -1,0 +1,5 @@
+
+　　此外，W32.Sircam.Worm@mm是一种分阶段发作的病毒，它会在不同阶段自动进入电脑硬件、删除文件和发送私人文件，每个阶段都有“引发”病毒的特定条件，“发病“机率也不一样。
+　　最可怕是，W32.Sircam.Worm@mm可以避开一般的病毒扫描程序，通过微软Outlook通讯簿在网上散播。
+　　Symantec“扫毒”研究中心已把W32.Sircam.Worm@mm列为第四级病毒（最严重为五级）。其他“扫毒”软件公司如McAfee和Trend也把W32.Sircam.Worm@mm归纳为中度危险病毒。
+　　Symantec是在星期一发现W32.Sircam.Worm@mm病毒的。它从全球各地接到200宗有关W32.Sircam.Worm@mm的投诉，McAfee则接到了50宗投诉。

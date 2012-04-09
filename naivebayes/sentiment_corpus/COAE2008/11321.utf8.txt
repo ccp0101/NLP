@@ -1,0 +1,3 @@
+在今年1月，Slammer蠕虫几乎导致网络全面停摆，而“冲击波”（Blaster）蠕虫及其变种则在8月令数十万台电脑瘫痪。
+　　微软在公告栏 (http:// www. microsoft.com/security/)促用户装修正档补丁程序。
+　　微软表示，Office软件家族中的近几版Access、Excel、PowerPoint、Publisher、Visio、Word和Works等都有遭受攻击的风险，而微软商务软件GreatPlains也受影响。

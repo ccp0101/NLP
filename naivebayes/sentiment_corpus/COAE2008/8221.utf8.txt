@@ -1,0 +1,4 @@
+
+　　它是视窗Media Player的专用格式，支援其他如MP3、CD及网上电台的播放，许多网上电台的广播不是视窗Media Player就是Real Player。
+　　音乐器材数码MIDI (Musical Instrument Digital Interface)用来协定不同的数码乐器，透过讯号线传递讯息与音乐资料，使乐器可以透过MIDI合成器及软件重现原音。
+　　MIDI设备都有一个MIDI in及MIDI out介面，可把不同的MIDI乐器串连，连接到个人电脑的游戏接口，使用31.25 kbps的速率与电脑沟通。

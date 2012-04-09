@@ -1,0 +1,3 @@
+3274Pentium III、Celeron、Crusoe的区别何在Pentium III、Celeron、Crusoe的区别何在
+目前笔记本电脑一般都配置500MHz以上的CPU。一般来说，达到这种配置后启动邮件软件及浏览器、办公软件已是绰绰有余。因此，CPU的重要性比以前有所降低。虽然如此，但并不是说个人电脑的速度已经不需要再过快了，要想流畅地处理动态图像数据，CPU的性能依然很关键。
+英特尔的Mobile Pentium III和Mobile Celeron是通过降低台式机用同名CPU的工作电压和控制耗电量而得到的。

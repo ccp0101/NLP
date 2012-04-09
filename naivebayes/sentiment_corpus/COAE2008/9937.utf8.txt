@@ -1,0 +1,6 @@
+赡馨庋恍┪募篈sians.exe, Babes.exe,Cartoons.exe, Ebony.exe, Fatladies.exe,Group.exe, Hidcam.exe, Hidcams.exe, Male.exe, Mature.exe, Miscellan.exe, Mixedbag.exe, Pregnant.exe, Toys.exe, Weird.exe等。
+如果用户运行了邮件的附件，将显示一个“缺少 giface.dll 文件"的错误消息。
+病毒传播：
+主要在Windows 95/98/NT/2000操作系统下通过Ootlook、Outlook Express、Netscape邮件系统传播。
+病毒防范：
+要清除该蠕虫，必须删除所有感染病毒的可执行文件。

@@ -1,0 +1,4 @@
+病毒使用的搜索引擎的机率依次是www.google.com（45%）、search.lycos.com（22.5%）、search.yahoo.com（20%）以及www.altavista.com（12.5%）。
+　　该新病毒被防毒软件公司McAfee列为“中等危险”（Medium-on-Watch）。
+　　电邮附件是病毒程序，有.EXE或.ZIP尾缀。昨早该公司在新加坡发布消息时表示，它的紧急反应中心McAfee AVERT早上已经接到超过100份该病毒的报告，大多数来自欧洲和美国。
+　　另一家防毒软件厂赛门铁克公司（Symantec）也指出，它在两小时内便收到了250份关于新病毒的报告，传染速度1月份最初MyDoom不相上下。

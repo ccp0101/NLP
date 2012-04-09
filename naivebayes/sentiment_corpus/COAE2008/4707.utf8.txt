@@ -1,0 +1,2 @@
+反垃圾电邮技术联盟的主要成员包括美国线上、英国电信、Comcast、EarthLink、微软以及雅虎等行业巨头。
+　　目前，包括美国线上、Brightmail、Cloudmark、EarthLink、IronPort、Sendmail、Tumbleweed以及VeriSign等多家企业均表示将支持Sender ID技术。（中华网）

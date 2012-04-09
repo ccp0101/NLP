@@ -1,0 +1,4 @@
+904侵害专利　微软被罚电子商务
+　　（西雅图讯）一个芝加哥联邦陪审团裁定微软（Microsoft）侵害加州大学与一家浏览器技术公司的专利，判微软赔偿5亿2100万美元。
+　　根据法庭文件，这起最初由Eolas Technologies于1999对微软提起的诉讼，指控微软利用Eolas的专利网络浏览器技术，让其他应用程式能配合微软的Internet Explorer浏览器。
+　　Eolas主张，Microsoft借由外挂（插件)程式与applet的技术，才得以与Netscape Navigator浏览器竞争，而在1990年代末，微软便超越Netscape Navigator。Eolas为此向微软求偿12亿美元。

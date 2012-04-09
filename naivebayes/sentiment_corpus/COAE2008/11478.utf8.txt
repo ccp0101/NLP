@@ -1,0 +1,4 @@
+另一方面，MyDoom.c/Doomjuice则只发送一个GET请求。
+　　Kaspersky实验室的研究人员还指出，MyDoom.d/Doomjuice.b的作者使用了在这类攻击中不常使用的服务器请求技术。MyDoom.d/Doomjuice.b对microsoft.com的请求模仿了IE的请求文本，这使得微软公司很难将二者区别开来，这可能提高了病毒的破坏能力。
+　　MyDoom.d/Doomjuice.b与MyDoom非常相似，它简单地使用了MyDoom.a的源代码。
+　　安全专家们表示，MyDoom.c/Doomjuice的作者利用MyDoom源代码的目的是，即使被逮捕后也很难被起诉，或者呼吁其它黑客攻击微软。（搜狐网）

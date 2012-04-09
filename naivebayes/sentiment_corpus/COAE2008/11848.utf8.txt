@@ -1,0 +1,2 @@
+Mobile Celeron则为Mobile Pentium III的低价位产品。现在，Mobile Pentium III的工作频率最高达到了1GHz，Mobile Celeron的工作频率最高也达到了750MHz。Mobile Pentium III内置了256KB的2级缓存，Mobile Celeron内置了128KB的2级缓存。因此即使时钟相同，Mobile Pentium III的工作速度也比Mobile Celeron要快。
+另一方面，美国Transmeta的Crusoe是一开始就以低电压、低发热为设计目标的移动用途CPU。目前共有两种型号：内置512KB 2级缓存的TM5600和内置256KB 2级缓存的TM5400。

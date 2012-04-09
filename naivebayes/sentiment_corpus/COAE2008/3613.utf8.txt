@@ -1,0 +1,2 @@
+
+　　在这七种软件中，有四种软件的安全问题与Internet Explorer有关，一种涉及到Front Page、一种关系到Workstation服务、还有一种与Excel Macros有关。

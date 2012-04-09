@@ -1,0 +1,6 @@
+ Lan- guage Pack for Office XP
+＊Office XP in a Multilingual Environment
+＊Simplified Chinese MUI Language Pack for Windows XP Embedded
+　　用户可按需求下载，要注意的是这些软件只能用在XP上，前三个适用于办公室XP，第四个适用于视窗XP。
+　　第三项多语文环境Multilingual Environment是个语文介面切换软件，也即是说你能让视窗屏面切换成中文或英文显示。
+　　另外到www. microsoft. com/china/底下的下载中心，可以取得功能强大的最新微软拼音输入法3.0版本的软件。

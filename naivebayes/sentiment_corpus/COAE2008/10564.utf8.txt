@@ -1,0 +1,3 @@
+
+　　它采用了美国Marvell Semiconductor公司开发的单晶片SATA SOC“Marvell 88i6535 SOC”，不需使用桥晶片，因此可以充分发挥SATA接口的优点，并实现了与原来的并行ATA产品同等的价格。
+　　由于支持原生命令队列(Native Command Queuing，NCQ)，因此最多可在硬盘控制器中保存32个命令(队列)，进行顺序切换，可通过队列功能，大幅提高硬盘的整体性能。

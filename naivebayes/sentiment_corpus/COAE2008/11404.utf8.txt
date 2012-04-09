@@ -1,0 +1,4 @@
+
+　　感染上这两种病毒的电脑用户，在过去六个月都未更新防毒软件。由于每个月都有数百种新病毒出现，这种马虎的心态等于是大开安全漏洞之门。
+　　索防士公布的最新10大病毒排行榜是W32/Klez-H（Klez变种）占17%、W32/Yaha-E（Yaha变种）占6.4%、JS/NoClose（NoClose特洛伊病毒再度入榜）占6.4%、W32/Badtrans-B（Badtrans变种）占5.3%、W32/ElKern-C（ElKern变种）占5.1%。
+　　第6名到第10名是W32/Higuy-A（Higuy）占2.7%，新进榜者、W32/Datom-A（Datom）占2.4%，新进榜者、W32/Magistr-B（Magistr变种）占2.1%、W32/Sircam-A（Sircam）占1.9%、W32/Nimda-D（Nimda变种）占1.6%。（彭博社）

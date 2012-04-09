@@ -1,0 +1,1 @@
+毒档案时，会出现标题为“Error”的对话框，框内的文字为“UI”，如果中毒用户按下OK，会在萤幕右下方出现一个蓝色的眼睛图标，游标指向眼睛图标时，会出现“Lo estamos miran do”，意思是“We are watching you”，接著若点选眼睛图标，又会出现以下对话框“Nunca presionor este boton”，意思是“Never press this button”，如果点选了，就会有一个错误讯息出现，意思是“Merry Christmas，Unfortunately you have given in to temptation and lose your computer”。

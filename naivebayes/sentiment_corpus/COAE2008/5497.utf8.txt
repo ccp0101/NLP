@@ -1,0 +1,3 @@
+
+　　当人们以团队的形式工作时，Office XP将会使他们的沟通变得更加有效，这要归功于基于email的文本批注与合成技术（email-based document collaboration and annotation technologies）,这是一个新的团队网站解决方案，叫做SharePoint团队作业（SharePoint Team Services），可以与Outlook、 MSN Messenger和其他基于Internet的邮件系统（例如Hotmail）集成起来。
+　　对于机构用户，Office XP可以提供一个非常好的平台，借助于XML、可扩展智能标记和Office Web组件的支持，企业机构能够以快速、廉价、自动化的方式建立和部署灵活可靠的业务解决方案。

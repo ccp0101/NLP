@@ -1,0 +1,5 @@
+
+　　另一方面，反病毒专家也发现，NetSky、MyDoom和Bagle的作者，竟然彼此诋毁对方，利用电脑编码打嘴仗。
+　　对立的双方都在自己病毒编码中对对方进行了恶意攻击。最新版的NetSky病毒编码中就包括一条信息，写道“Bagle，你是个失败者！”而在此前的一个NetSky病毒中包括一条信息写道：“MyDoom.F偷窃了我们的想法！”
+　　而Bagle.J在向外传播的时候也不忘骂上几句“Hey, NetSky, fuck off you bitch, don't ruine our business, wanna start a war?”
+　　此外，NetSky病毒的最新变种NetSky.F甚至试图使MyDoom和Bagle病毒的变种无效。

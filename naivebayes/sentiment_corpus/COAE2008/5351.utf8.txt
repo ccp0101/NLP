@@ -1,0 +1,4 @@
+1384AMD新芯片瞄准企业市场AMD新芯片瞄准企业市场
+芯片制造商AMD公司最近推出高性能版Athlon处理器Thunderbird（雷鸟）。该芯片实质上是Athlon的增强型版本。人们预计新型芯片的发布将引发该公司与Intel的新一轮竞争。
+AMD还向PC制造商发送Duron处理器。作为Athlon的低价版本，Duron的运行速度为600MHz、650MHz和700MHz，将在本月底正式推出。
+AMD公司称，专为高端消费系统和企业桌面系统而设计的Thunderbird将具有6种不同的运行速度，速度范围从750MHz～1GHz不等。

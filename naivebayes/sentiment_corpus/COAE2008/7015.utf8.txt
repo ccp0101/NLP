@@ -1,0 +1,3 @@
+如果你的互联网连接没有火墙的保护，黑客就可以进入你的电脑。
+　　McAfee VirusScan7.0的火墙装置能够防范以上的威胁。及时更新McAfee VirusScan7.0软件，能够防范最新的网络病毒威胁，并自动扫描文件以及病毒。
+　　另外，抗毒软件中的恶意活动监视核心（Hostile Activity Watch Kernel，HAWK）功能，可监察可疑的活动和阻止滥发电邮的威胁，而“Script Stopper”功能还可以保护电脑，免受恶意利用脚本程序的病毒，如“I love you”的感染。

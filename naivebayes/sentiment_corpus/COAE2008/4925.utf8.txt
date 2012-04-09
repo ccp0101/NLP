@@ -1,0 +1,3 @@
+
+　　尽管还没有计算机用户受到Sharpei蠕虫病毒的攻击，但一旦传播开，它将会使被感染的计算机大量地发送电子邮件。
+　　携带Sharpei蠕虫病毒的电子邮件的主题为“Important: Windows update”（重要的Windows升级程序），电子邮件的内容为“Hey, at work we are applying this update because it makes Windows over 50% faster and more secure. I thought I should forward it as you may like it. ”（嗨，我们在工作中安装了这些升级程序，因为它们可以使Windows的运行速度提高50%，而且更安全。

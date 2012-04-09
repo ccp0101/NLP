@@ -1,0 +1,4 @@
+
+５．Configure（配置）
+在Configure设置项中，你可以选中“Updates”复选框，直接连上Internet 网络进行在线升级；在Configuration设置项中有两个复选项，通过这些复选项，你可以设定是否在Internet 处于激活状态下让Zone Alarm 保持常显状态，也可以设定在计算机一启动时就打开Zone Alarm 。
+好了，到了这里Zone Alarm 的设置就算介绍完了。由于Zone Alarm 在安装结束之后，默认地以最高安全模式对你的Internet 存取进行警报，所以你通常需要按照自己的意愿来进行安全级别设置的。相信笔者上面介绍的设置内容，一定能帮助你自由地驾驭Zone Alarm ，尽情在Internet 上遨游！

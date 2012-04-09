@@ -1,0 +1,2 @@
+其页面采用了Javascript，速度很快，但是只支持IE5.5以上的浏览器，对Atom格式也不能完全支持，添加的Feed也只能储存在Cookie里。另外，在线RSS阅读器有了一些网站图片（screenshots）显示功能，这将大大方便了用户浏览信息。
+　　据说新版本已支持Firefox浏览器，并将整合到MSN Search中，有助于增加与搜索巨人Google、YAHOO对抗的资本。

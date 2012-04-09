@@ -1,0 +1,3 @@
+当用户按下上述程式档时，病毒会将电脑内所有”.j pg”图像档案和”. zip”压缩档案更改名称及移到别的目录内。
+　　”Creative”病毒又名为”W32.Prolin. Worm”及”Troj-shockwave.A”，11月30日在香港首次发现。
+　　此外，根据电脑病毒公司指出，在24日至26日的耶诞节假期内，将有16种电脑病“发作”，包括Christmas、Christmas tree、Father Christmas、Icelandic、TROJ-Music. A、W97MI-PRILISSA、PE-CIH、W97M-CLSTNT.B、ATOMIC-1A, ATOMIC-1B、MINOSSE、PE-KRIZ、TOPO、W97M-A-OPEY、W97M-TEOCATL、DEL-WIN.1759及ARCV-670。

@@ -1,0 +1,3 @@
+662新MP3格式挑战Windows Audio新MP3格式挑战Windows Audio
+　　老的MP3数字音乐格式已经得到更新，新的格式能够在保证同样音频质量的情况下，把压缩比提高一倍。Thomson Multimedia SA和Fraunhofer Institute是MP3格式的缔造者，日前他们在RCA.com网站上推出了新的MP3pro格式标准。
+　　Thomson发言人Dave Arland称，新版本在音质上不亚于微软的Windows Audio 8，且大大提高了音质，同时使得文件更加小巧。一个具有CD音质的MP3pro文件，其大小与Windows Audio版的文件差不多，而只有MP3版本大小的一半。

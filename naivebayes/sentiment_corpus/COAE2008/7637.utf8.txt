@@ -1,0 +1,7 @@
+
+＊解毒方法是什么
+步骤一：收到标题为“I LOVE YOU”的电邮应该立即删除，即使发信 人是你所熟悉的名字，千万不要打开附加文件，否则后悔莫及。
+步骤二：到有关抗毒软件公司网站下载扫毒软件，执行清除程式，以 自动清除病毒。
+步骤三：必须使用最新病毒软件扫毒，例如利用趋势软件，就必须使 用该公司695以上的软件，将侦测到的.vbs档案全部清除掉。
+＊哪些网站提供抗毒软件
+www.antivirus.com/ download/pattern.asp www.trend.com.tw（中文网站） www.symantec.com/ avcenter/venc/data/vbs. loveletter.a.html vil.mcafee.com/vil/ vbs98617.asp

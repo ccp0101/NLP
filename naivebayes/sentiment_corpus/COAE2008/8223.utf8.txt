@@ -1,0 +1,4 @@
+
+　　mp3PRO支援旧MP3格式，而旧MP3播放器亦可播放mp3PRO。
+　　OggVorbis开放了原始码，让大家可以自由下载及复制，编码器、plug-in及工具都可以随便取用。
+　　同时提供了Winamp、Sonique及Freeamp的外挂程式，可在原有或者Vorbis播放器播放Vorbis格式的(.ogg)的音乐。

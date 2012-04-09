@@ -1,0 +1,3 @@
+Mobile Celeron和Mobile Pentium III在这方面性能差不多。由于Crusoe的发热量少，在设计中可以不使用散热风扇因而能够降低工作时的噪音也是其优点之一。
+这几种CPU各有所长，不能一概而论说选择哪一种更好，可以说如果重视速度最好选择Mobile Pentium III、重视电池驱动时间则选择Crusoe、而如果重视性能价格比则可以选择Mobile Celeron。
+在耗电量的竞争中英特尔目前落后一步，但该公司已于2001年1月推出了工作电压在1V左右（普通的Mobile Pentium III/Celeron的电压约为1.35～1.6V左右）的超低电压型Mobile Pentium III。

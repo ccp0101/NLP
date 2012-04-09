@@ -1,0 +1,4 @@
+2122微软Windows Me难以兼容其他软件微软Windows Me难以兼容其他软件
+　　（西雅图讯）微软表示，由于Windows Me设计上的部分改变，使McAfee、赛门铁克等多家软件公司出售的产品无法与它兼容。
+　　Windows Me于14日正式上市，是视窗2000个人用户版本，它的设计改良，稳定度提高，但也因此无法与McAfee、赛门铁克、Adaptec、Quarterdeck等公司的软件兼容。
+　　问题是来自Windows Me中的系统文件保护功能(System File Protection)，这项功能可防止主文件被改写。

@@ -1,0 +1,5 @@
+ILED DELIVERY
+　　邮件正文： 　　Unfortunately， it was not possible to deliver one or more of your messages.For more information， please， take a look in the attachment.附件：Mail.hta
+　　如果收件人打开这个附件，它先会显示一个广告页面，然后把自己作为下面的一个文件拷贝到计算机上执行：C:\Sys615.scr
+　　C:\Progra～1\Outloo～1\outl32.scr
+　　木马如果成功的执行，就会生成另一个木马程序Backdoor/Jeem，并且会修改注册表。

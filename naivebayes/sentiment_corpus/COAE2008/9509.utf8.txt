@@ -1,0 +1,5 @@
+目前，所有的当代浏览器都在使用Mosaic浏览器的规则。
+　　第三名：Apache（阿帕奇，1995年推出）
+　　Apache目前已经演变成了“LAMP”，即Linux、Apache、MySQL和PHP的联合体。这是一个开放源码软件项目，已经对微软的“.NET”战略构成严重威胁。尤其是Apache网络浏览器，让用户充分体验到开发源码软件的稳定性、可靠性和可定义性。
+　　第二名：WordStar（1978年-1979年）
+　　WordStar与其前辈“Electric Pencil”和后裔“Microsoft Word”等都是一流的文字处理程序，但相比之下WordStar更值得一提。

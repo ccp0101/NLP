@@ -1,0 +1,3 @@
+用户可以随意将邮件从Hotmail邮箱中下载到Microsoft Outlook和Outlook Express客户端程序中。
+　　而从9月27日起，MSN将只向Hotmail的付费注册用户提供Web DAV工具，Hotmail的付费起始标准为19.95美元。先前曾在使用Web DAV工具的Hotmail用户将可以继续免费使用到2005年3月或4月，估计这部分用户约占Hotmail总用户数量的5%--10%，目前Hotmail用户约有1.87亿。
+　　微软MSN通讯服务部产品经理布鲁克-理查德森(Brook Richardson)表示，“我们注意到垃圾邮件传播者一直在利用Web DAV工具，我们将对此进行调整，杜绝滥用Web DAV工具的现象继续发生。

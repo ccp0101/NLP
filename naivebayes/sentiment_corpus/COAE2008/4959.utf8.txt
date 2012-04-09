@@ -1,0 +1,3 @@
+同时，苹果公司 还对新增加的Dashboard功能大加推崇，它可以帮助用户快速访问天气预报和股市行情。
+　　无论是面向台式机还是服务器的Tiger系统，都支持64位应用软件的操作，同时可以运行传统的32位软件。除包含一款以即时通信为主的iChat软件外，Tiger 服务器版本还包括1.0 版的Xgrid 群集软件，可以在网络里面动态分配系统资源，包括CPU、RAM等等，使得集群运算的性能大大提高。
+　　为了增强与微软应用软件的兼容性，“Tiger”系统支持了微软Windows XP 和 Windows Server 2003系统所支持的“访问控制列表”（ Access control lists ）和内部文件许可（native file permissions）。

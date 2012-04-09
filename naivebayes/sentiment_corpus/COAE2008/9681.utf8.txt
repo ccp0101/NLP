@@ -1,0 +1,5 @@
+
+软件的神奇之处
+　　与其付钱给第三方的备份软件，你其实可以应用现有Microsoft产品中已有的备份功能，Windows XP就有内置并容易使用的备份应用软件。
+　　如果你是使用Windows XP Professio- nal，只要按照次序Start>All Programs> Accessories>SystemTools>Backup就能获得备份的功能。
+　　如未改变设定，软件只储存个人文件及档案(My Documents，Outlook Express信息，Cookies及Internet bookmarks)，但你可以选择备份其他档案及文件夹或整个硬磁盘驱动器。

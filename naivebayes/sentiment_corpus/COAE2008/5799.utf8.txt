@@ -1,0 +1,3 @@
+如果你在一台局域网中的服务器上安装了Zone Alarm 软件，那么你可以使用这里提供的Advanced选项来定制你的服务范围，单击Ａｄｖａｎｃｅｄ按钮，程序打开了一个高级设置对话框。在该对话框中你可以通过“add IP address”命令来设置指定的Ｉｐ主机来访问你的机器，也可以通过“add IP range”命令把局域网中的IP地址范围添加进去，让Zone Alarm 把局域网和Internet 分开来管理。
+４．Programs（程序）
+对于我们来说，Zone Alarm 最重要的功能就是Programs。

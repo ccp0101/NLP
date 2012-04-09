@@ -1,0 +1,4 @@
+1884趋势科技将推出新版Linux防毒软件趋势科技将推出新版Linux防毒软件
+　　（台北讯）防毒软件商趋势科技(Trend Micro)宣布今年首季推出新版Linux防毒软件，适用于 Red Hat、SuSE 及 Turbo Linux 操作系统，提供网闸防毒及电邮内容过滤功能，这三种常用的 Linux 平台分别流行于北美洲、德国及日本。
+Linux防毒系统需求增加
+　　趋势科技有限公司总经理钟惠冰表示：“趋势科技 InterScan VirusWall 早已支持 Red Hat Linux，有见于软件开发商希望在其它Linux 平台上也获得同样的防毒保护，所以我们新增 InterScan VirusWall SuSE 及 Turbo Linux 版本。

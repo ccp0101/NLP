@@ -1,0 +1,3 @@
+
+　　这项研究跟踪了通过公众IM网络发送的病毒、蠕虫、垃圾信息以及捕钓式攻击(Phishing attacks，就是别有用心者使用欺诈性电子邮件或伪网站，以哄骗网民泄露个人信息及重要数据)，指出今年由新发现的IM安全威胁所引发的事故增长了271%。
+　　此外，该研究报告发现2005年第一季度汇集到该安全中心的事故中超过一半是攻击IM软件的工作区，即时消息软件包括AOL Instant Messenger、MSN Messenger、Windows Messenger和Yahoo Messenger均免提供了这一功能。

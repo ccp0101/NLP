@@ -1,0 +1,5 @@
+
+２、 Sniffer——网络和系统保安软件。
+３、 Magic Solutions——提供网页服务台面解决方案。
+　　McAfee是Network Associates 是五个业务部门的其中一个，在 McAfee名下的产品，提供全面防毒保护的McAfee Active Defense ，包括 WebShield for Intenet Gateway protection——该软件能阻挡病毒进入网络中，减少重要商业系统蒙受的任何损失。
+　　McAfee成立的防毒研究机构——防毒紧急应对大队，支持McAfee开发的所有产品，这个捉虫特攻队，是第一个发现梅丽莎、Bubbleboy以及第一只无线病毒Phage 的机构。

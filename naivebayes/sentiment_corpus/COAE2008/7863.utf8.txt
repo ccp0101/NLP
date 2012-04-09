@@ -1,0 +1,2 @@
+五个软件业重要发展领域：万维网服务（Webservices/XML）、科技服务供应商（xSP-Technology Service Providers）、互联网汇合科技（IP Convergence）、资讯通信保安服务（Infocomm Security）、以及语音科技（Speech Language）。
+　　万维网服务：这可能是另一个巨浪。这种“服务”并不是我们一般所指的网上书店服务（如Amazon. com），而是小单位的“服务”，如股票报价或微软的“护照”（.NET Passport）服务，由这些不一定是由同一公司提供的“服务”，再组成整个网站服务。

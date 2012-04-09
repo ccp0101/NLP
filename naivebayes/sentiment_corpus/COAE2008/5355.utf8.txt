@@ -1,0 +1,2 @@
+Hailstorm是构成微软.Net计划的基础。
+公司还在新的操作系统Windows XP中包括了Hailstorm服务。新的Hotmail还将保留那些在Hailstrom服务中的相关部分。新的用户界面和及时信息联系中添加了与MSN Messenger和MSN Calendar的链接，它们在Hotmail的主页上都能找到。微软正采取措施逐步地将其Hailstorm服务囊括到它所有的产品中去。Hotmail将从这一整合中获益非浅。Hotmail目前有1亿1000万有效用户而且随着市场扩张这个数字还在增长。公司在软件和互联网市场的用户规模还在迅速扩张。

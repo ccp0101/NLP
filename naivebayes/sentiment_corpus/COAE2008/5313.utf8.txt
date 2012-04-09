@@ -1,0 +1,3 @@
+
+　　这家一度曾保密的公司一直准备向开放源码界发布Mobile Linux。事实上，人们要求它在GNU许可证下向开发源码界发行改进版本。
+　　Mobile Linux用在Gateway、日立和其他公司生产的Internet设备中。配置Transmeta芯片的笔记本电脑则不使用Linux，但作为替代仍依靠Windows。Transmeta很快会把这一操作系统提供到它的Web网络。该公司期望人们下载Mobile Linux，修补该操作系统，然后提出如何改进它的建议。

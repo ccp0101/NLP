@@ -1,0 +1,1 @@
+游客能够取得各种旅游内容，例如“CityGuide”，这个指南服务让用户得知附近有哪些餐馆、酒店和游客去处；“Chat”让用户与其他CitySim用户清谈沟通；“Visitor Information Centres”则帮助游客寻找附近的访客询问中心。

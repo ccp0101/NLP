@@ -1,0 +1,2 @@
+这就是数学理论家们所说的由于缺乏有效稳定机制而造成的“Nash flow”。
+　　上述问题是由Cornel大学的Eva Tardos和Tim Roughgarden在“游戏理论与互联网算法座谈会”（Game Theoretic Aspects of Internet Computation）上提出的。他们评论说：这些“自私的路由算法”引起的互联网速度减慢，是“无秩序，无监管的代价”。它导致了现时互联网实际速度要比理想状态下的速度慢1.33倍。

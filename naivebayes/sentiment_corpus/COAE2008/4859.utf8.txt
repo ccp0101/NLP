@@ -1,0 +1,3 @@
+
+　　2000年2月，Intel公司在Intel开发商论坛IDF(Intel Developer Forum)上发布了Serial（串行）ATA技术，并专门成立了制定和推广Serial ATA标准规范的Serial ATA工作组(Serial ATA Working Group)，该工作组一开始就包括了业内众多有影响力的公司，如IBM、Intel、Dell、APT、Maxtor、Quantum(目前其硬盘部门已与Maxtor公司合并)和Seagate公司。
+　　2000年12月18日，Serial ATA工作组公布了Serial ATA草案1.0版。 在1.0版规范中规定Serial ATA的数据传输速度为1.5Gbps(相当于并行ATA的150MB/s)，比目前最快的并行ATA标准Ultra ATA /100还要高50%，而且随着未来后续版本的发展，其接口速度还可扩展到3Gbps和6Gbps(300MB/s和600MB/s)。

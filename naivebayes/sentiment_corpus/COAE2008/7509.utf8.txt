@@ -1,0 +1,12 @@
+”("I received your e-mail and I shall send 
+you a reply ASAP.Till then, take a look at the attached 
+zipped docs.")
+
+　　一旦打开这个压缩档案，病毒随即启动，开始执行原来的
+Worm.ExploreZip程式，可是荧幕上可能会告诉你，这个压缩档案无
+法工作，然后，这种病毒马上就自动拷贝成c:\windows\system目录
+名叫Explore.exe的档案，同时修改win.ini档，以后视窗每开机一次，
+它就跟着执行一次。
+
+　　赛门铁克公司表示，先前用来侦测Worm.ExploreZip病毒的程式，
+无法捉出这只新版病毒。

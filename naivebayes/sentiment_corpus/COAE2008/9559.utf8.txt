@@ -1,0 +1,5 @@
+
+　　讲座除了解说和示范那些这配套的功能之外，也讨论了装置方法等技术问题。
+　　李前南指出，装置视窗XP系统时，硬盘的格式必须选择FAT32（因为视窗XP在装置时可能会建议用户选用NTFS格式），这才能确保所有软件都能用，例如Adobe的软件。
+　　至于免费下载的华文配套，则包括“Global IME（Chinese）”和“Chinese Language Pack”。
+　　用户可到www.microsoft.com搜寻“global IME”，并选择“Download Simplified Chinese Global IME”（约22MB）。

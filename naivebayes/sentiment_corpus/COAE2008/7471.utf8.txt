@@ -1,0 +1,3 @@
+1886数码相机用户使用Windows XP请小心数码相机用户使用Windows XP请小心
+　　数码相机生产商Canon 及Nikon最近分别在网站上，要Windows XP用户注意，使用Windows XP内的相片检视功能会对相片内的EXIF资料造成破坏，不论你用它来看改相片，甚至只是看相片的“内容”也会破坏EXIF资料。
+　　另外，由于Windows XP内置的Format功能会自动选定为FAT32格式，而数码相机都是使用传统的FAT，故用户在格式化时必须自行选择FAT格式才可。

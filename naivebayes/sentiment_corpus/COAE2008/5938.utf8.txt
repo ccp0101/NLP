@@ -1,0 +1,3 @@
+1495特洛伊木马型病毒危害加剧特洛伊木马型病毒危害加剧
+　　东方网9月6日消息；特洛伊木马型病毒(别称“APOST”或“README”)所造成的危害正在扩大，以色列的Aladdin Knowledge Systems公司于美国时间9月4日，公布了Win32.Review的简要情况及对策，Aladdin公司表示该病毒的危险程度为“中”。
+　　Win32.Review通过电子邮件感染，电子邮件的文件名为“As per your request!”，文本内容为“Please find attached file for your review.I look forward to hear fr om you again very soon.Thank you.”。

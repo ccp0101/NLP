@@ -1,0 +1,4 @@
+
+　　MyDoom.F的传播不如其前辈MyDoom病毒迅速，也不如上周爆发的Netsky.B迅速。
+　　不过，由于它可以任意删除微软的Word和Excel文档，以及被感染电脑里保存的照片和影片，而被视为日益增长的潜在危险。
+　　安全公司再次建议电脑用户，如果不确定发信者，千万不要打开主题为“Approved”、“YourCreditCard”、“You use illegal File Sharing…Your IP was logged”等的邮件或点击附件。(路透社）

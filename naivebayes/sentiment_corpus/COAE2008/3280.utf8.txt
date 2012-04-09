@@ -1,0 +1,3 @@
+　如今的Macintosh电脑与20年前相比，已经发生了很大的变化，最初的Macintosh使用摩托罗拉的CISC处理器，现在的Macintosh则使用IBM的RISC晶片，当初的Macintosh使用自己的操作系统，现在的Macintosh使用BSD Unix操作系统。
+　　如果说现在的Macintosh还继承了20年的Macintosh的衣钵的话，那就是始终不改的对垂直集成和系统硬件及软件控制的承诺。
+　　苹果的首席执行员乔布斯(Jobs)坚持不将Macintosh的操作系统许可授予其他制造商，同时要求Macintosh追根溯源。

@@ -1,0 +1,4 @@
+3169利用MyDoom源码 黑客制造更多变体病毒病毒/黑客
+　　（北京讯）网络安全专家上周发现了MyDoom蠕虫的另一个同胞：MyDoom.d，也被称作Doomjuice.b。
+　　MyDoom是互联网上有史以来传播速度最快的蠕虫病毒。新的变种与MyDoom.c/Doomjuice一样，也扫描被MyDoom或MyDoom.b感染的电脑，然后自己再感染该系统。
+　　因此，大多数防毒软件公司都报告发现的MyDoom.d/Doomjuice.b病毒感染事例非常少。截止到本周三中午，尽管将该病毒的危险定级评为2，赛门铁克公司(Symantec)还没有收到客户被感染MyDoom.d病毒的报告。

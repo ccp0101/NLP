@@ -1,0 +1,2 @@
+
+　　Bugbear利用了微软Outlook，Outlook Express和Internet Explorer浏览器的漏洞进行大规模的传播。一般，Bugbear病毒在受害者的PC机上植入一个木马病毒，以及一个重要的记录器。

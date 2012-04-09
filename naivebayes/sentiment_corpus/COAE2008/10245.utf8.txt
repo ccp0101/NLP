@@ -1,0 +1,5 @@
+2698IBM推出用PowerPC e-LAPPDA分为两大阵营
+e-LAP将在LinusWorld2003上展示，料在今年第二季度正式推出市场。
+　　（综合讯）IBM即将推出使用PowerPC的e-LAP ，这款个人数码资讯机（PDA）配备30MB的SDRAM，32MB NOR Flash以及64MB备份Flash。
+　　虽然主内存容量稍小了些，但是能够直接执行程序的32MB NOR，因此实际内存容量增加不少。该机配置了320x240彩色TFT屏幕。
+　　由于使用了PowerPC系列处理器，有人猜测这可能又将使苹果电脑（Apple）的PDA计划死灰复燃。

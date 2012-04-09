@@ -1,0 +1,2 @@
+根据微软安全公告板高级通知网站中公布的信息，即将发布的8个补丁中有5个针对Windows操作系统，另外3个分别针对Office、Exchange以及MSN Messenger。
+　　微软并没有在月度例行补丁预告中公布即将发布补丁的细节，因此补丁的具体内容目前还无从知晓。不过，国际安全组织CVE(Common Vulnerabilities and Exposures)的数据库中列出了两个尚未解决的Office安全漏洞，其中一个同InfoPath有关，另外一个则涉及到绕过限制访问隐藏分区的安全策略。

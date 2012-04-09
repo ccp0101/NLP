@@ -1,0 +1,5 @@
+
+　　这三种防毒新星各有其功能：
+　 InterScan Messaging Security Suite SMTP 5.0 InterScan是安装在企业的电邮网关（SMTP Gateway）的防毒软件，专门监测出入公司的电邮是否存有病毒，特点是可以设定成每隔一段时间自动连接到TrendLabs 的网站，看看有没有更新档。
+　　另外，新版本也加入了文字内容过滤功能，可以过滤内容涉及性或种族歧视，也可以挡住与公司业务无关的促销电邮等。
+　　ScanMail for Microsoft Exchange 2000 Server 6.0这个最新版本的高效能防毒及内容过滤解决方案ScanMail，是安装在微软的伺服器Exchange 2000 Server上，用来扫描公司内送和外寄的电邮内容及附加档，以及主动式即时讯息过滤。
